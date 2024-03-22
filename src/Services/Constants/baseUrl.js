@@ -1,0 +1,1 @@
+export const baseUrl = "https://icanhazdadjoke.com/search?page=1&limit=20"
